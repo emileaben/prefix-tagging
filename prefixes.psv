@@ -3,4 +3,5 @@ rpki-invalid-on-purpose|93.175.147.0/24|emileaben|RIS RPKI-invalid prefix
 rpki-invalid-on-purpose|2001:7fb:fd03::/48|emileaben|RIS RPKI-invalid prefix
 rpki-invalid-on-purpose|103.21.244.0/24|emileaben|Cloudflare RPKI-invalid prefix
 rpki-invalid-on-purpose|2606:4700:7000::/48|emileaben|Cloudflare RPKI-invalid prefix
+ixps-from-ripe-ncc|185.0.0.0/15|emileaben|This is the prefix that new IXPs get allocated from
 
